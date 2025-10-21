@@ -64,7 +64,7 @@ const Header = () => {
                         </div>
                         <Link href="/" className="ml-3 flex items-center gap-2">
                             <Image
-                                src="/images/abubakar-logo.png"
+                                src="/images/navLogo-darkMood.png"
                                 alt="Logo"
                                 width={160}
                                 height={40}
